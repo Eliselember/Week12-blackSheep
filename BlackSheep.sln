@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackSheep", "BlackSheep\BlackSheep.csproj", "{BDC37939-09F7-46B4-B50E-27458F6B9D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seasons", "Seasons\Seasons.csproj", "{190DFAFD-D679-4CA6-AF06-992D79715183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomQuote", "RandomQuote\RandomQuote.csproj", "{6A335AB1-D565-4009-BA9B-E4C4301E7485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC37939-09F7-46B4-B50E-27458F6B9D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC37939-09F7-46B4-B50E-27458F6B9D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC37939-09F7-46B4-B50E-27458F6B9D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC37939-09F7-46B4-B50E-27458F6B9D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190DFAFD-D679-4CA6-AF06-992D79715183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190DFAFD-D679-4CA6-AF06-992D79715183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190DFAFD-D679-4CA6-AF06-992D79715183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190DFAFD-D679-4CA6-AF06-992D79715183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A335AB1-D565-4009-BA9B-E4C4301E7485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A335AB1-D565-4009-BA9B-E4C4301E7485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A335AB1-D565-4009-BA9B-E4C4301E7485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A335AB1-D565-4009-BA9B-E4C4301E7485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44EFBACA-9AA4-44E0-A878-D5C68F34166F}
+	EndGlobalSection
+EndGlobal
